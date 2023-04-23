@@ -57,5 +57,6 @@ public class Method {
         System.out.println("Multiplication is :" + result_3);
         System.out.println("Divide is :" + result_4);
         System.out.println("Pattern is :" + result_5);
+        
     }
 }
